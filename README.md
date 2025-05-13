@@ -1,10 +1,10 @@
-# Bienvenidos al perfil de SinCodigo25
+# Bienvenidos al perfil de SinCodigo
 
 Somos un equipo de diez profesionales con diversos perfiles y una pasión compartida por la solución de necesidades y problemas informáticos. Nuestra diversidad de experiencias enriquece nuestra perspectiva y la forma en que abordamos los desafíos.
 
 ## Nuestra misión y enfoque
 
-En SinCodigo25, nos dedicamos a crear soluciones novedosas y posibles mediante la exploración de tecnologías de vanguardia y su aplicación en proyectos prácticos. Nuestros pilares son la colaboración efectiva, la calidad de nuestros desarrollos y el impacto positivo de nuestro trabajo en el área informática.
+En SinCodigo, nos dedicamos a crear soluciones novedosas y posibles mediante la exploración de tecnologías de vanguardia y su aplicación en proyectos prácticos. Nuestros pilares son la colaboración efectiva, la calidad de nuestros desarrollos y el impacto positivo de nuestro trabajo en el área informática.
 
 ## Colaboración y oportunidades
 
@@ -19,7 +19,7 @@ Estamos formados por diez integrantes divididos en cuatro particiones fluentes e
 *  Ux/Ui: Florencia, Patricia, Cristian
 *  Testing: Alessandra, Florencia
 *  Front End: Rosario, Ezequiel, Lucas, Darío
-*  Back End: Anthony, Darío, César
+*  Back End: Anthony Bañon, Darío, César
 
 ## Contacto
 
